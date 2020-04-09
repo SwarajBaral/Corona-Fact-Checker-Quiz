@@ -17,3 +17,4 @@ The ‘Ask a Question About Covid-19’ button is another important feature of t
 # Need Of This Application
 
 Fake news and internet rumors about covid19 is at large. People do not need to be more stressed than they already are and by this application, they can check about any facts and myths related to coronavirus before blindly believing it. And by using our app, they can sleep a bit easier knowing that they are fully aware about this disease. CFC will make sure that every citizen knows about this disease to the fullest extent and it delivers information in a fun way. If more and more people use this application then we can curb myths about covid19 and coronavirus and people will remain prepared if anything happens to them.
+
